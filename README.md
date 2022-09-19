@@ -8,5 +8,5 @@ In an attempt to scientifically analyse this phenomenon, the NYC Police Departme
 - Cleaning Data
 - Aggregation tasks along with answering a lot of business related questions
 ## Details of files given
-- NYC+Parking+Tickets+-+An+Exploratory+Analysis+(1) (1).ipynb : The python file showing coding and data analysis in PySpark
+- PySpark_Case_study.ipynb : The python file showing coding and data analysis in PySpark
 - https://www.kaggle.com/new-york-city/nyc-parking-tickets/data#Parking_Violations_Issued_-_Fiscal_Year_2017.csv (Parking_Violations_Issued_-_Fiscal_Year_2017.csv) : Data worked on
